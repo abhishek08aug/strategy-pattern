@@ -1,6 +1,6 @@
-package in.blogspot.randomcompiler.vehicle.impl;
+package in.blogspot.randomcompiler.strategy.pattern.impl;
 
-import in.blogspot.randomcompiler.vehicle.api.Vehicle;
+import in.blogspot.randomcompiler.strategy.pattern.api.Vehicle;
 
 public class Car extends Vehicle {
 	public void display() {

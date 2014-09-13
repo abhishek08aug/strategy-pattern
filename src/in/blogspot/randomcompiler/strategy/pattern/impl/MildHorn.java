@@ -1,6 +1,6 @@
-package in.blogspot.randomcompiler.horn.impl;
+package in.blogspot.randomcompiler.strategy.pattern.impl;
 
-import in.blogspot.randomcompiler.horn.api.Horn;
+import in.blogspot.randomcompiler.strategy.pattern.api.Horn;
 
 public class MildHorn implements Horn {
 	public void honk() {

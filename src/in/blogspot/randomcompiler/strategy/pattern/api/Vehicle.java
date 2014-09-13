@@ -1,6 +1,5 @@
-package in.blogspot.randomcompiler.vehicle.api;
+package in.blogspot.randomcompiler.strategy.pattern.api;
 
-import in.blogspot.randomcompiler.horn.api.Horn;
 
 public abstract class Vehicle {
 	private Horn horn;
